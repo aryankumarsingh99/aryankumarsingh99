@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi Aryan Kumar Singh 👋</h1>
 <h4> Know me better 🚀</h4>
 <p>Currently pursuing my dreams in Computer Science, I am a passionate programmer and a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. I love solving problems and taking up new challenges. My interest lies in the world of we development and Artificial intelligence</p>
