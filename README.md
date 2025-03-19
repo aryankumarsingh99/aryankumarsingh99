@@ -1,6 +1,8 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, Hi Aryan Kumar Singh 👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi Aryan Kumar Singh 👋</h1>
+<h4> Know me better 🚀</h4>
+<p>Currently pursuing my dreams in Computer Science, I am a passionate programmer and a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. I love solving problems and taking up new challenges. My interest lies in the world of we development and Artificial intelligence</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankumarsingh99&label=Profile%20views&color=0e75b6&style=flat" alt="aryankumarsingh99" /> </p>
 
