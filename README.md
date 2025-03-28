@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi Aryan Kumar Singh Here👋</h1>
-<img align="left" src="C:\Users\ASUS\Downloads\cover.png" />
+<img align="left" src=" ![cover](https://github.com/user-attachments/assets/0fb37937-5c72-4dac-ac61-cb32e0ce46bd)
+" />
 <h4> Know me better 🚀</h4>
 <p>Currently pursuing my dreams in Computer Science, I am a passionate programmer and a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. I love solving problems and taking up new challenges. My interest lies in the world of we development and Artificial intelligence</p>
 
